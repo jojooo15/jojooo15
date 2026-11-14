@@ -1,21 +1,18 @@
-👋 Hi, I'm Jojo
+# Hai, saya Adam Duta Mursadi (Jojo)
 
-💻 I'm interested in Software Engineering and Cloud Engineering  
-🌐 I'm currently learning Front-End Web Development Learning Path  
-🤝 I'm looking to collaborate on CityCare App project  
+Lulusan S1 Teknik Informatika Universitas Gunadarma (2026) dan Front-End & Back-End Developer. Full Graduate Coding Camp 2025 powered by DBS Foundation dengan nilai rata-rata 91,9.
 
-📬 How to reach me:  
-- 📸 [Instagram](https://www.instagram.com/jojohsjid/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adam-duta-6503341b4/)  
-<!-- - 🐦 [X / Twitter](https://x.com/USERNAME_ANDA) -->  
-<!-- - ✍️ [Medium](https://medium.com/@USERNAME_ANDA) -->  
+## Yang saya kerjakan
 
----
+- **FlowlyHub**: aplikasi kasir dan manajemen keuangan untuk UMKM kuliner (capstone Coding Camp 2025, sebagai Front-End Developer)
+- **Teras Rumah Kayu**: aplikasi pemesanan makanan Android dengan Kotlin, Jetpack Compose, dan REST API Node.js + MongoDB (Penulisan Ilmiah)
+- **CRUD-pasien**: aplikasi CRUD data pasien dengan React, Tailwind CSS, dan PHP
 
-🧠 **About Me**  
-- 🧑‍💻 Name: Adam Duta Mursadi  
-- 🌍 Location: Tangerang, Indonesia  
-- 🏢 Company: Gunadarma University (student)  
-- 🔗 Personal Website: _coming soon_  
+## Teknologi
 
-> *I'm passionate about building efficient web apps and cloud solutions. Let's connect and create impactful tech together!*
+JavaScript, HTML, CSS, Node.js, Express.js, React, Tailwind CSS, Kotlin, Jetpack Compose, MongoDB, PHP, SQL, Git & GitHub
+
+## Kontak
+
+- [LinkedIn](https://www.linkedin.com/in/adam-duta-6503341b4/)
+- Email: damdut9@gmail.com
